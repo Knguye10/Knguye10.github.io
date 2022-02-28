@@ -1,0 +1,21 @@
+.info{
+	text-align: right;
+}
+h1{
+	color: white;
+	border-style: solid;
+	background-color: #6699cc;
+	font-family: Arial;
+}
+h2{
+	color: #6699cc;
+}
+.skills{
+	text-align: left;
+}
+hr{
+	border-width: 2px;
+}
+h3{
+	line-height: 10px;
+}
